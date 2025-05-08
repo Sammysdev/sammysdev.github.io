@@ -1,4 +1,4 @@
-# # MP3 Player UI
+ # MP3 Player UI
 
 A vibrant, modern MP3 player interface perfect for music apps and audio projects. Designed with a colorful aesthetic and easy-to-use controls.
 
